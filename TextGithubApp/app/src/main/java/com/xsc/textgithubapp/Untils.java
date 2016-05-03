@@ -9,4 +9,8 @@ public class Untils {
     public String getVault() {
         return "获得值";
     }
+
+    public String getStrName() {
+        return "name";
+    }
 }
